@@ -1,0 +1,5 @@
+F:\work\JSdemo\JSdemo\JSdemo\bin\JSdemo.dll
+F:\work\JSdemo\JSdemo\JSdemo\bin\JSdemo.pdb
+F:\work\JSdemo\JSdemo\JSdemo\obj\Debug\JSdemo.csprojResolveAssemblyReference.cache
+F:\work\JSdemo\JSdemo\JSdemo\obj\Debug\JSdemo.dll
+F:\work\JSdemo\JSdemo\JSdemo\obj\Debug\JSdemo.pdb
