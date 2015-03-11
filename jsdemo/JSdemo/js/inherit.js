@@ -1,4 +1,7 @@
-﻿//寄生组合式继承
+﻿/*
+寄生组合式继承
+2015-3-11
+*/
 function object(o) {
     function F() { }
     F.prototype = o;
